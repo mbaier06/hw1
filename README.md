@@ -1,2 +1,3 @@
 # hw1
 HW 1 - Building 3-pg website using HTML
+This is a fictional website for an interior design firm. My significant other is an interior designer by trade and wants to own her own boutique business so I figured a website in that contect would bring more "realness" to this assignment. The home page captures a general overview with navigation to the other pages. The "Services" page details the type of work available to customers and corresponding pricing. The "Contact Us" page provides made-up contact info along with a blurb about us.
